@@ -1,3 +1,15 @@
-"sn": {
+  
+{
+  "name": "huhu-sn-dark-theme",
+  "version": "1.2",
+  "main": "dist.css",
+
+  "sn": {
     "main": "dist.css"
   },
+
+}
+
+
+
+
