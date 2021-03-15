@@ -1,11 +1,10 @@
   
 {
-  "name": "huhu-sn-dark-theme",
-  "version": "1.2",
-  "main": "index.css",
-
+  "name": "sn-dark-theme",
+  "version": "1.5",
+  
   "sn": {
-    "main": "index.css"
+    "css": "index.css"
   },
 
 }
