@@ -1,1 +1,0 @@
-# sn_extension_dark_theme
